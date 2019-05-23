@@ -11,7 +11,7 @@ The WAF Analyzer also provides some additional functions such as fetching inform
 
 Set Up
 ------
-Simply clone this repository, run `pip install -r requirements.txt` then `cp config.py.pexample config.py`, fill in the details in `config.py` file, then run `./analyzer.py`.
+Simply clone this repository, run `pip install -r requirements.txt` then `cp config.py.example config.py`, fill in the details in `config.py` file, then run `./analyzer.py`.
 
 For additional help run `./analyzer.py --help`
 
